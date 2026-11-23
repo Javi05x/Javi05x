@@ -1,8 +1,12 @@
 # Hola, soy Javier Bolívar 👋
 
-Estudiante del **Grado en Ciencia e Ingeniería de Datos** en la **Universidad de Las Palmas de Gran Canaria (ULPGC)**, orientado a la **ingeniería de datos, arquitectura de sistemas y desarrollo de software eficiente**.
+Estudiante del **Grado en Ciencia e Ingeniería de Datos** en la **Universidad de Las Palmas de Gran Canaria (ULPGC)**, dando mis primeros pasos hacia el mundo profesional con muchas ganas de aprender, aportar y seguir creciendo en entornos reales.
 
-Me interesa construir pipelines de datos robustos, automatizar procesos en entornos Linux y analizar el rendimiento real de sistemas y algoritmos más allá de la teoría.
+Disfruto entendiendo cómo funcionan los sistemas por dentro: desde construir pipelines de datos y aplicaciones con IA hasta automatizar procesos en Linux y analizar el rendimiento de algoritmos más allá de la teoría.
+
+* 🌱 **Actualmente:** Buscando una oportunidad de **prácticas en empresa** en Ingeniería de Datos, Ciencia de Datos, Desarrollo Backend o Sistemas.
+* 💡 **Mentalidad:** Curiosidad constante, facilidad para adaptarme a nuevas herramientas y ganas de absorber buenas prácticas trabajando codo con codo con otros profesionales.
+* 🤝 **Forma de trabajar:** Habituado al desarrollo colaborativo con Git/GitHub, la resolución práctica de problemas y la mejora continua.
 
 ---
 
